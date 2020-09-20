@@ -1,16 +1,14 @@
-# Angular Crash Course (TodoList)
-
-This is the code for the crash course on YouTube
+Angular 10 simple TodoList with dummy data from JSONPlaceholder APIs
 
 ## Quick Start
 
 ```bash
-# Install dependencies
+to Install dependencies:
 npm install
 
-# Serve on localhost:4200
+To run Serve:
 ng serve
 
-# Build for production
+To Build for production:
 ng build
 ```
